@@ -16,7 +16,7 @@ public class ShapeCalculator {
             case 1 :
                 System.out.println("enter the radius");
                 double radius = scanner.nextDouble();
-                Shape shape = null;
+                shape = new Circle(radius);
                 break;
 
             case 2:
