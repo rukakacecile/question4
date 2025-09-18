@@ -24,6 +24,7 @@ public class ShapeCalculator {
                 double length = scanner.nextDouble();
                 System.out.println("enter the width");
                 double width = scanner.nextDouble();
+
                 break;
 
             case 3:
